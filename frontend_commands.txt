@@ -1,0 +1,4 @@
+1.  npx create-react-app react-frontend
+2.  cd react-frontend
+3.  npm install axios
+4.  npm i bootstarp
