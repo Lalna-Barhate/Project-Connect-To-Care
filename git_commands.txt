@@ -3,4 +3,4 @@
 3. git remote            -> to check origin add or not
 4. git add -A            -> to all the file in the staging area
 5. git commit -am "Write your message"
-6. git push origin master 
+6. git push -u origin master   

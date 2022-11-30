@@ -15,7 +15,7 @@ function AddDoctor() {
         aadharNumber: "",
         gender: "",
         dob: "",
-        graduation: "",
+        graduation: "",3
         postGraduation: "",
         speciality: "",
         areaId: "",
